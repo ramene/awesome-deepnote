@@ -1,6 +1,6 @@
 # Awesome Deepnote [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome [Deepnote](http://deepnote.com) notebooks, extensions and resources. Deepnote is a new kind of data science notebook. Jupyter-compatible with real-time collaboration and easy deployment.
+A curated list of [awesome](https://github.com/topics/awesome) deepnote notebooks, extensions and resources. [Deepnote](http://deepnote.com)  is a new kind of data science notebook. Jupyter-compatible with real-time collaboration and easy deployment.
 
 Inspired by [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter).
 
@@ -14,13 +14,14 @@ Inspired by [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter).
 
 ## Extensions
 
-- [ColabCode](https://github.com/abhishekkrthakur/colabcode) by [Abhishek Thakur](https://github.com/abhishekkrthakur) •º [YouTube](https://youtu.be/7kTbM3D02jU)
+- [ColabCode](https://github.com/abhishekkrthakur/colabcode) by [Abhishek Thakur](https://github.com/abhishekkrthakur) –– [Video](https://youtu.be/7kTbM3D02jU)
 
 
 ## Public notebooks
 
-- [Facial Recognition]()
+- [Customer Churn Prediction](https://github.com/alfarias/customer-churn-prediction/blob/master/notebooks/customer-churn-prediction.ipynb)
 - [Tensorboard +ngrok tunnel](https://deepnote.com/project/d9ef0f3d-e2e3-40ef-8f40-2dc37fb22b88#%2Ftensorboard.ipynb) by _@Simon_ in [Deepnote Slack Community](https://join.slack.com/t/deepnotecommunity/shared_invite/enQtOTI4OTA1MzYwNTMzLTQ4ZGY4Y2VkOTZkYTNjY2U3NTU5ZjJjMDRiMmNmOTgzMzhmYjZlMTczZmY1MDhhM2RmMDk3OWYxM2MyZmFlMDc)
+- [Scraping the EPL Stats Website (Deepnote Edition)](https://deepnote.com/project/19f51d7b-ae79-4c51-906c-dee0138da144) –– [Docs](https://github.com/sportsdatasolutions/python_project_template/blob/master/getting_started_deepnote.md)
 
 ## Visualizations
 
