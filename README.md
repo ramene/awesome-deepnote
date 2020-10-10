@@ -15,6 +15,7 @@ Inspired by [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter).
 ## Extensions
 
 - [ColabCode](https://github.com/abhishekkrthakur/colabcode) by [Abhishek Thakur](https://github.com/abhishekkrthakur) •º [YouTube](https://youtu.be/7kTbM3D02jU)
+- [Tensorboard]() by [Simon Sotak] in [Slack Community](https://join.slack.com/t/deepnotecommunity/shared_invite/enQtOTI4OTA1MzYwNTMzLTQ4ZGY4Y2VkOTZkYTNjY2U3NTU5ZjJjMDRiMmNmOTgzMzhmYjZlMTczZmY1MDhhM2RmMDk3OWYxM2MyZmFlMDc)
 
 ## Visualizations
 
