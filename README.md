@@ -36,5 +36,5 @@ Inspired by [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter).
 
 - [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 - [Python for Probability, Statistics, and Machine Learning](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E)
-- [Mining the Social Web](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition/tree/master/notebooks)
+- [Mining the Social Web](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition/tree/master/notebooks) by [Mikhail Klassen](https://github.com/mikhailklassen)
 - [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures)
