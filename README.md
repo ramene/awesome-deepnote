@@ -19,6 +19,7 @@ Inspired by [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter).
 
 ## Public notebooks
 
+- [Detect Credit Card Fraud](https://github.com/matthew-e-thomas/deeptnote-credit-card-fraud) using [scikit-learn]() by [Matt Thomas](https://github.com/matthew-e-thomas)
 - [Customer Churn Prediction](https://github.com/alfarias/customer-churn-prediction/blob/master/notebooks/customer-churn-prediction.ipynb)
 - [Tensorboard +ngrok tunnel](https://deepnote.com/project/d9ef0f3d-e2e3-40ef-8f40-2dc37fb22b88#%2Ftensorboard.ipynb) by _@Simon_ in [Deepnote Slack Community](https://join.slack.com/t/deepnotecommunity/shared_invite/enQtOTI4OTA1MzYwNTMzLTQ4ZGY4Y2VkOTZkYTNjY2U3NTU5ZjJjMDRiMmNmOTgzMzhmYjZlMTczZmY1MDhhM2RmMDk3OWYxM2MyZmFlMDc)
 - [Scraping the EPL Stats Website (Deepnote Edition)](https://deepnote.com/project/19f51d7b-ae79-4c51-906c-dee0138da144) –– [Docs](https://github.com/sportsdatasolutions/python_project_template/blob/master/getting_started_deepnote.md)
