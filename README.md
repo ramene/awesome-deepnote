@@ -1,6 +1,6 @@
 # Awesome Deepnote [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome [Deepnote](http://deepnote.com) notebooks, packages and resources. Deepnote is a new kind of data science notebook. Jupyter-compatible with real-time collaboration and easy deployment.
+A curated list of awesome [Deepnote](http://deepnote.com) notebooks, extensions and resources. Deepnote is a new kind of data science notebook. Jupyter-compatible with real-time collaboration and easy deployment.
 
 Inspired by [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter).
 
