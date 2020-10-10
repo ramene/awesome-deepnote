@@ -15,7 +15,12 @@ Inspired by [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter).
 ## Extensions
 
 - [ColabCode](https://github.com/abhishekkrthakur/colabcode) by [Abhishek Thakur](https://github.com/abhishekkrthakur) •º [YouTube](https://youtu.be/7kTbM3D02jU)
-- [Tensorboard]() by [Simon Sotak] in [Slack Community](https://join.slack.com/t/deepnotecommunity/shared_invite/enQtOTI4OTA1MzYwNTMzLTQ4ZGY4Y2VkOTZkYTNjY2U3NTU5ZjJjMDRiMmNmOTgzMzhmYjZlMTczZmY1MDhhM2RmMDk3OWYxM2MyZmFlMDc)
+
+
+## Public notebooks
+
+- [Facial Recognition]()
+- [Tensorboard +ngrok tunnel](https://deepnote.com/project/d9ef0f3d-e2e3-40ef-8f40-2dc37fb22b88#%2Ftensorboard.ipynb) by _@Simon_ in [Slack Community](https://join.slack.com/t/deepnotecommunity/shared_invite/enQtOTI4OTA1MzYwNTMzLTQ4ZGY4Y2VkOTZkYTNjY2U3NTU5ZjJjMDRiMmNmOTgzMzhmYjZlMTczZmY1MDhhM2RmMDk3OWYxM2MyZmFlMDc)
 
 ## Visualizations
 
