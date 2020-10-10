@@ -38,3 +38,11 @@ Inspired by [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter).
 - [Python for Probability, Statistics, and Machine Learning](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E)
 - [Mining the Social Web](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition/tree/master/notebooks) by [Mikhail Klassen](https://github.com/mikhailklassen)
 - [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures)
+
+### In the media
+
+- [Deepnote: the modern way to teach Data Science](https://medium.com/@robertlacok/deepnote-the-modern-way-to-teach-data-science-99998ce659a)
+- [Collaborative notebooks for ML course at Cambridge](https://deepnote.com/article/university-of-cambridge)
+- [Reviewing Deepnote — The New IDE for Data Scientists](https://towardsdatascience.com/reviewing-deepnote-the-new-ide-for-data-scientists-90c3464ebc5e)
+- [Deepnote Emerges from Stealth: With YC, Index, and Accel Leading Our Seed Round](https://medium.com/deepnote/deepnote-emerges-from-stealth-with-yc-index-and-accel-leading-our-seed-round-12325281cde0)
+
