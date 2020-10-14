@@ -17,7 +17,7 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 -  [Deepnote Launch Buttons](https://github.com/SuNaden/deepnote-launch-example) by [Filip Stollar](https://github.com/SuNaden) 
 -  [ColabCode](https://github.com/abhishekkrthakur/colabcode) by [Abhishek Thakur](https://github.com/abhishekkrthakur) –– [Video](https://youtu.be/7kTbM3D02jU)
 
-## Public notebooks
+## Published on Deepnote
 
 -  [Using Conda in Deepnote in 3 simple steps](https://beta.deepnote.com/project/1e061457-9c0a-412a-a8fa-c08358928ba2) by _@Daniel_
 -  [Detect Credit Card Fraud](https://github.com/matthew-e-thomas/deeptnote-credit-card-fraud) using [scikit-learn]() by [Matt Thomas](https://github.com/matthew-e-thomas)
@@ -27,12 +27,12 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 
 ## Collections of notebooks
 
+- [Datascience IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 -  [Maths: Form and Function with Python](https://github.com/James-G-Hill/Mathematics-Form-and-Function-Notebooks) by [James G. Hill](https://github.com/James-G-Hill) 
   -  [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 -  [Python for Probability, Statistics, and Machine Learning](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E)
 -  [Mining the Social Web](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition/tree/master/notebooks) by [Mikhail Klassen](https://github.com/mikhailklassen)
 -  [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures)
-- [Datascience IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 
 ## Visualizations
 
@@ -69,6 +69,6 @@ Other amazingly awesome lists can be found by searching: [#awesome](https://gith
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNTQ2MTU1LDIxMjkwNTcwNjUsMzAxNT
+eyJoaXN0b3J5IjpbNzgzOTM0MjU3LDIxMjkwNTcwNjUsMzAxNT
 Q4MDU2XX0=
 -->
