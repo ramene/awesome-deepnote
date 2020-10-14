@@ -32,7 +32,9 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 -  [Maths: Form and Function with Python](https://github.com/James-G-Hill/Mathematics-Form-and-Function-Notebooks) by [James G. Hill](https://github.com/James-G-Hill) 
   -  [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 -  [Python for Probability, Statistics, and Machine Learning](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E)
--  [Mining the Social Web](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition/tree/master/notebooks) by [Mikhail Klassen](https://github.com/mikhailklassen)
+- [ <sub><sub><img alt="by Peter Norvig" height="20" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=data-science&url=https%3A//github.com/ageron/handson-ml/blob/master/02_end_to_end_machine_learning_project.ipynb)   [Mining the Social Web](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition/tree/master/notebooks) by [Mikhail Klassen](https://github.com/mikhailklassen)
+
+https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition/blob/master/notebooks/Chapter%200%20-%20Preface.ipynb
 
 ## Other Resources
 - [Deepnote Slack Community](https://join.slack.com/t/deepnotecommunity/shared_invite/enQtOTI4OTA1MzYwNTMzLTQ4ZGY4Y2VkOTZkYTNjY2U3NTU5ZjJjMDRiMmNmOTgzMzhmYjZlMTczZmY1MDhhM2RmMDk3OWYxM2MyZmFlMDc)
@@ -73,9 +75,10 @@ Other amazingly awesome lists can be found by searching: [#awesome](https://gith
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0NjI3MzU4LC05MDQ4NDM5NiwtOTcwNT
-Y3NzQ3LC0xOTEyMjAwOTUyLC0xOTYzMDkzOTMyLDEzNDkzNDg2
-MTgsLTE3NjA4MzI5MTQsOTI0OTQ1MDkxLC0xOTQyODc0NDMsLT
-E2NzA2NTEwNjQsMTI1NDMyMTkzLC0xOTcwMzAxODAsMTkwMDg5
-NzY5NSwyMTI5MDU3MDY1LDMwMTU0ODA1Nl19
+eyJoaXN0b3J5IjpbMzIwMzE2ODUyLDczNDYyNzM1OCwtOTA0OD
+QzOTYsLTk3MDU2Nzc0NywtMTkxMjIwMDk1MiwtMTk2MzA5Mzkz
+MiwxMzQ5MzQ4NjE4LC0xNzYwODMyOTE0LDkyNDk0NTA5MSwtMT
+k0Mjg3NDQzLC0xNjcwNjUxMDY0LDEyNTQzMjE5MywtMTk3MDMw
+MTgwLDE5MDA4OTc2OTUsMjEyOTA1NzA2NSwzMDE1NDgwNTZdfQ
+==
 -->
