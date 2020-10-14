@@ -43,6 +43,7 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
  - [lists](https://github.com/jnv/lists)
  - [pytudes](https://github.com/norvig/pytudes)
  - [awesome-r](https://github.com/qinwf/awesome-R)
+ - [awesome-aws](https://github.com/donnemartin/awesome-aws)
  - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz)
  - [awesome-python](https://github.com/vinta/awesome-python)
  - [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)
@@ -72,9 +73,9 @@ Other amazingly awesome lists can be found by searching: [#awesome](https://gith
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNDg0Mzk2LC05NzA1Njc3NDcsLTE5MT
-IyMDA5NTIsLTE5NjMwOTM5MzIsMTM0OTM0ODYxOCwtMTc2MDgz
-MjkxNCw5MjQ5NDUwOTEsLTE5NDI4NzQ0MywtMTY3MDY1MTA2NC
-wxMjU0MzIxOTMsLTE5NzAzMDE4MCwxOTAwODk3Njk1LDIxMjkw
-NTcwNjUsMzAxNTQ4MDU2XX0=
+eyJoaXN0b3J5IjpbNzM0NjI3MzU4LC05MDQ4NDM5NiwtOTcwNT
+Y3NzQ3LC0xOTEyMjAwOTUyLC0xOTYzMDkzOTMyLDEzNDkzNDg2
+MTgsLTE3NjA4MzI5MTQsOTI0OTQ1MDkxLC0xOTQyODc0NDMsLT
+E2NzA2NTEwNjQsMTI1NDMyMTkzLC0xOTcwMzAxODAsMTkwMDg5
+NzY5NSwyMTI5MDU3MDY1LDMwMTU0ODA1Nl19
 -->
