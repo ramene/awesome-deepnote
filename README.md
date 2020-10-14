@@ -1,4 +1,4 @@
-# Awesome Deepnote [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  [<img height="22" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg">](https://github.com/SuNaden/deepnote-launch-example) 
+# Awesome Deepnote [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  [<img height="21" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg">](https://github.com/SuNaden/deepnote-launch-example) 
 
 A curated [awesome](https://github.com/topics/awesome) list of deepnote notebooks, extensions and resources. [Deepnote](http://deepnote.com) is a new kind of data science notebook. Jupyter-compatible with real-time collaboration and easy deployment.
 
@@ -71,7 +71,7 @@ Other amazingly awesome lists can be found by searching: [#awesome](https://gith
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDcyMTcwNSwtMTc2MDgzMjkxNCw5Mj
+eyJoaXN0b3J5IjpbMTM0OTM0ODYxOCwtMTc2MDgzMjkxNCw5Mj
 Q5NDUwOTEsLTE5NDI4NzQ0MywtMTY3MDY1MTA2NCwxMjU0MzIx
 OTMsLTE5NzAzMDE4MCwxOTAwODk3Njk1LDIxMjkwNTcwNjUsMz
 AxNTQ4MDU2XX0=
