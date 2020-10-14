@@ -15,11 +15,14 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 -  [Visual data exploration with Virginia's public COVID-19 cases dataset](https://github.com/jammy-bot/va-covid-eda) by [Jamal Dargan](https://github.com/jammy-bot)
 ##### _anaconda, miniconda_
 -  [Using Conda in Deepnote in 3 simple steps](https://beta.deepnote.com/project/1e061457-9c0a-412a-a8fa-c08358928ba2)
+
 ##### _scikit-learn_
 - [ <sub><sub><img height="20" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Fmatthew-e-thomas%2Fdeeptnote-credit-card-fraud%2Fblob%2Fmaster%2Fcredit_card_fraud_ml.ipynb)  [Detect Credit Card Fraud](https://github.com/matthew-e-thomas/deeptnote-credit-card-fraud)  
 - [ <sub><sub><img height="20" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Falfarias%2Fcustomer-churn-prediction%2Fblob%2Fmaster%2Fnotebooks%2Fcustomer-churn-prediction.ipynb%29)  [Customer Churn Prediction](https://github.com/alfarias/customer-churn-prediction/blob/master/notebooks/customer-churn-prediction.ipynb) 
+
 ##### _tensorflow, keras_
 - [Deep Learning with TensorFlow 2 and Keras](https://github.com/ageron/tf2_course)
+
 ##### _tensorboard_
 -  [Tensorboard with ngrok](https://deepnote.com/project/d9ef0f3d-e2e3-40ef-8f40-2dc37fb22b88#%2Ftensorboard.ipynb) 
 -  [Scraping the EPL Stats Website](https://deepnote.com/project/19f51d7b-ae79-4c51-906c-dee0138da144) –– [Docs](https://github.com/sportsdatasolutions/python_project_template/blob/master/getting_started_deepnote.md)
@@ -71,8 +74,8 @@ Other amazingly awesome lists can be found by searching: [#awesome](https://gith
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0OTM0ODYxOCwtMTc2MDgzMjkxNCw5Mj
-Q5NDUwOTEsLTE5NDI4NzQ0MywtMTY3MDY1MTA2NCwxMjU0MzIx
-OTMsLTE5NzAzMDE4MCwxOTAwODk3Njk1LDIxMjkwNTcwNjUsMz
-AxNTQ4MDU2XX0=
+eyJoaXN0b3J5IjpbLTE5NjMwOTM5MzIsMTM0OTM0ODYxOCwtMT
+c2MDgzMjkxNCw5MjQ5NDUwOTEsLTE5NDI4NzQ0MywtMTY3MDY1
+MTA2NCwxMjU0MzIxOTMsLTE5NzAzMDE4MCwxOTAwODk3Njk1LD
+IxMjkwNTcwNjUsMzAxNTQ4MDU2XX0=
 -->
