@@ -11,14 +11,14 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 
 ## Published
 
-#### #matplotlib, #plotly
+##### _matplotlib, plotly_
 -  [Visual data exploration with Virginia's public COVID-19 cases dataset](https://github.com/jammy-bot/va-covid-eda) by [Jamal Dargan](https://github.com/jammy-bot)
-#### #conda
+##### _anaconda, miniconda_
 -  [Using Conda in Deepnote in 3 simple steps](https://beta.deepnote.com/project/1e061457-9c0a-412a-a8fa-c08358928ba2) by _@Daniel_
-#### #scikit-learn
+##### _scikit-learn_
 -  [Detect Credit Card Fraud](https://github.com/matthew-e-thomas/deeptnote-credit-card-fraud) using [scikit-learn]() by [Matt Thomas](https://github.com/matthew-e-thomas)
 -  [Customer Churn Prediction](https://github.com/alfarias/customer-churn-prediction/blob/master/notebooks/customer-churn-prediction.ipynb)
-##### _tensorflow, #keras
+##### _tensorflow, keras_
 - [Deep Learning with TensorFlow 2 and Keras](https://github.com/ageron/tf2_course)
 ##### _tensorboard_
 -  [Tensorboard with ngrok](https://deepnote.com/project/d9ef0f3d-e2e3-40ef-8f40-2dc37fb22b88#%2Ftensorboard.ipynb) [Deepnote Slack Community](https://join.slack.com/t/deepnotecommunity/shared_invite/enQtOTI4OTA1MzYwNTMzLTQ4ZGY4Y2VkOTZkYTNjY2U3NTU5ZjJjMDRiMmNmOTgzMzhmYjZlMTczZmY1MDhhM2RmMDk3OWYxM2MyZmFlMDc)
@@ -68,6 +68,6 @@ Other amazingly awesome lists can be found by searching: [#awesome](https://gith
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzE1NjI5MSwxOTAwODk3Njk1LDIxMj
+eyJoaXN0b3J5IjpbLTE5NzAzMDE4MCwxOTAwODk3Njk1LDIxMj
 kwNTcwNjUsMzAxNTQ4MDU2XX0=
 -->
