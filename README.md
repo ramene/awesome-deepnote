@@ -16,7 +16,7 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 ##### _anaconda, miniconda_
 -  [Using Conda in Deepnote in 3 simple steps](https://beta.deepnote.com/project/1e061457-9c0a-412a-a8fa-c08358928ba2) by _@Daniel_
 ##### _scikit-learn_
--  [Detect Credit Card Fraud](https://github.com/matthew-e-thomas/deeptnote-credit-card-fraud)  by [Matt Thomas](https://github.com/matthew-e-thomas)  [ <span><img align="bottom" height="18" src="https://beta.deepnote.com/buttons/launch-in-deepnote-white.svg"></span>](https://deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Fmatthew-e-thomas%2Fdeeptnote-credit-card-fraud%2Fblob%2Fmaster%2Fcredit_card_fraud_ml.ipynb)
+-  [Detect Credit Card Fraud](https://github.com/matthew-e-thomas/deeptnote-credit-card-fraud)  by [Matt Thomas](https://github.com/matthew-e-thomas)  [ <span style="display:block;text-align:center"><img height="18" src="https://beta.deepnote.com/buttons/launch-in-deepnote-white.svg"></span>](https://deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Fmatthew-e-thomas%2Fdeeptnote-credit-card-fraud%2Fblob%2Fmaster%2Fcredit_card_fraud_ml.ipynb)
 
 -  [Customer Churn Prediction](https://github.com/alfarias/customer-churn-prediction/blob/master/notebooks/customer-churn-prediction.ipynb)
 ##### _tensorflow, keras_
@@ -72,7 +72,7 @@ Other amazingly awesome lists can be found by searching: [#awesome](https://gith
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI0OTQ1MDkxLC0xOTQyODc0NDMsLTE2Nz
-A2NTEwNjQsMTI1NDMyMTkzLC0xOTcwMzAxODAsMTkwMDg5NzY5
-NSwyMTI5MDU3MDY1LDMwMTU0ODA1Nl19
+eyJoaXN0b3J5IjpbMTM4MzczODAxOCw5MjQ5NDUwOTEsLTE5ND
+I4NzQ0MywtMTY3MDY1MTA2NCwxMjU0MzIxOTMsLTE5NzAzMDE4
+MCwxOTAwODk3Njk1LDIxMjkwNTcwNjUsMzAxNTQ4MDU2XX0=
 -->
