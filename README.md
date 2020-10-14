@@ -1,23 +1,13 @@
 # Awesome Deepnote [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  [<img height="22" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg">](https://github.com/SuNaden/deepnote-launch-example) 
 
-A curated list of [awesome](https://github.com/topics/awesome) deepnote notebooks, extensions and resources. [Deepnote](http://deepnote.com)  is a new kind of data science notebook. Jupyter-compatible with real-time collaboration and easy deployment.
+A curated list of [awesome](https://github.com/topics/awesome) deepnote notebooks, extensions and resources. [Deepnote](http://deepnote.com) is a new kind of data science notebook. Jupyter-compatible with real-time collaboration and easy deployment.
 
-Inspired by [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter).
-
-<h1 align="center" s<div align="right" style="text-align:right"><i><a href="https://github.com/topics/deepnote">#deepnote</a>, <a href="https://github.com/topics/jupyter-kernels">#jupyter-kernels</a>, <a href="https://github.com/topics/machine-learning">#machine-learning</a><br>
-search: <a href="https://github.com/search?tylpe="border-bottom: 0px;">
-	<brRepositories&q=deepnote"> deepnote</a></i></div>
+<div align="right" style="text-align:right"><i><a href="https://github.com/topics/deepnote">#deepnote</a>, <a href="https://github.com/topics/jupyter-kernels">#jupyter-kernels</a>, <a href="https://github.com/topics/machine-learning">#machine-learning</a><br>
+search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepnote</a></i></div>
 
 <div align="center">
-	<img  width="1560"  src="https://deepnote.com/static/landing/logo.svg"  alt="Jupyter logo">
-	<br>
-  <br>
-</h1>
-<br>
-
-## Extensions
-
--</div>
+<img  width="160"  src="https://deepnote.com/static/landing/logo.svg"  alt="Jupyter logo">
+</div>
 
 
 ## Extensions
@@ -36,29 +26,16 @@ search: <a href="https://github.com/search?tylpe="border-bottom: 0px;">
 -  [Using Conda in Deepnote in 3 simple steps](https://beta.deepnote.com/project/1e061457-9c0a-412a-a8fa-c08358928ba2) by _@Daniel_
 -  [Detect Credit Card Fraud](https://github.com/matthew-e-thomas/deeptnote-credit-card-fraud) using [scikit-learn]() by [Matt Thomas](https://github.com/matthew-e-thomas)
 -  [Customer Churn Prediction](https://github.com/alfarias/customer-churn-prediction/blob/master/notebooks/customer-churn-prediction.ipynb)
--  [Tensorboard +ngrok tunnelwith ngrok](https://deepnote.com/project/d9ef0f3d-e2e3-40ef-8f40-2dc37fb22b88#%2Ftensorboard.ipynb) by _@Simon_ in [Deepnote Slack Community](https://join.slack.com/t/deepnotecommunity/shared_invite/enQtOTI4OTA1MzYwNTMzLTQ4ZGY4Y2VkOTZkYTNjY2U3NTU5ZjJjMDRiMmNmOTgzMzhmYjZlMTczZmY1MDhhM2RmMDk3OWYxM2MyZmFlMDc)
+-  [Tensorboard with ngrok](https://deepnote.com/project/d9ef0f3d-e2e3-40ef-8f40-2dc37fb22b88#%2Ftensorboard.ipynb) by _@Simon_ in [Deepnote Slack Community](https://join.slack.com/t/deepnotecommunity/shared_invite/enQtOTI4OTA1MzYwNTMzLTQ4ZGY4Y2VkOTZkYTNjY2U3NTU5ZjJjMDRiMmNmOTgzMzhmYjZlMTczZmY1MDhhM2RmMDk3OWYxM2MyZmFlMDc)
 -  [Scraping the EPL Stats Website (Deepnote Edition)](https://deepnote.com/project/19f51d7b-ae79-4c51-906c-dee0138da144) –– [Docs](https://github.com/sportsdatasolutions/python_project_template/blob/master/getting_started_deepnote.md)
-
-## Visualizations
-
-- [Visual data exploration with Virginia's public COVID-19 cases datasetCollections of notebooks
-
--  [Maths: Form and Function with Python](https://github.com/jJammy-bot/va-covid-eda) by [Jamal Dargan](https://github.com/jammy-bot)
-
-
-## Community Resources
-
-- GitHub - Topics: [deepnote](https://github.com/topics/deepnote), [jupyter-kernels](https://github.com/topics/jupyter-kernels)
-- GitHub - Search: [deepnote](https://github.com/search?type=Repositories&q=deepnote)
 
 ## Collections of notebooks
 
--es-G-Hill/Mathematics-Form-and-Function-Notebooks) by [James G. Hill](https://github.com/James-G-Hill) 
+-  [Maths: Form and Function with Python](https://github.com/James-G-Hill/Mathematics-Form-and-Function-Notebooks) by [James G. Hill](https://github.com/James-G-Hill) 
   -  [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 -  [Python for Probability, Statistics, and Machine Learning](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E)
 -  [Mining the Social Web](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition/tree/master/notebooks) by [Mikhail Klassen](https://github.com/mikhailklassen)
 -  [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures)
-
 - [Datascience IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 
 
@@ -99,5 +76,5 @@ Other amazingly awesome lists can be found by searching: [#awesome](https://gith
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAxNTQ4MDU2XX0=
+eyJoaXN0b3J5IjpbMjEyOTA1NzA2NSwzMDE1NDgwNTZdfQ==
 -->
