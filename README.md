@@ -21,7 +21,7 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 ##### _tensorflow, keras_
 - [Deep Learning with TensorFlow 2 and Keras](https://github.com/ageron/tf2_course)
 ##### _tensorboard_
--  [Tensorboard with ngrok](https://deepnote.com/project/d9ef0f3d-e2e3-40ef-8f40-2dc37fb22b88#%2Ftensorboard.ipynb) [Deepnote Slack Community](https://join.slack.com/t/deepnotecommunity/shared_invite/enQtOTI4OTA1MzYwNTMzLTQ4ZGY4Y2VkOTZkYTNjY2U3NTU5ZjJjMDRiMmNmOTgzMzhmYjZlMTczZmY1MDhhM2RmMDk3OWYxM2MyZmFlMDc)
+-  [Tensorboard with ngrok](https://deepnote.com/project/d9ef0f3d-e2e3-40ef-8f40-2dc37fb22b88#%2Ftensorboard.ipynb) 
 -  [Scraping the EPL Stats Website](https://deepnote.com/project/19f51d7b-ae79-4c51-906c-dee0138da144) –– [Docs](https://github.com/sportsdatasolutions/python_project_template/blob/master/getting_started_deepnote.md)
 
 ## Collections of notebooks
@@ -34,6 +34,7 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 -  [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures)
 
 ## Other Resources
+- [Deepnote Slack Community](https://join.slack.com/t/deepnotecommunity/shared_invite/enQtOTI4OTA1MzYwNTMzLTQ4ZGY4Y2VkOTZkYTNjY2U3NTU5ZjJjMDRiMmNmOTgzMzhmYjZlMTczZmY1MDhhM2RmMDk3OWYxM2MyZmFlMDc)
 -  [Deepnote Launch Buttons](https://github.com/SuNaden/deepnote-launch-example) by [Filip Stollar](https://github.com/SuNaden) 
 -  [ColabCode](https://github.com/abhishekkrthakur/colabcode) by [Abhishek Thakur](https://github.com/abhishekkrthakur) –– [Video](https://youtu.be/7kTbM3D02jU)
 
@@ -70,7 +71,7 @@ Other amazingly awesome lists can be found by searching: [#awesome](https://gith
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzA2NTEwNjQsMTI1NDMyMTkzLC0xOT
-cwMzAxODAsMTkwMDg5NzY5NSwyMTI5MDU3MDY1LDMwMTU0ODA1
-Nl19
+eyJoaXN0b3J5IjpbLTE5NDI4NzQ0MywtMTY3MDY1MTA2NCwxMj
+U0MzIxOTMsLTE5NzAzMDE4MCwxOTAwODk3Njk1LDIxMjkwNTcw
+NjUsMzAxNTQ4MDU2XX0=
 -->
