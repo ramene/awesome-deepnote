@@ -32,9 +32,7 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 -  [Maths: Form and Function with Python](https://github.com/James-G-Hill/Mathematics-Form-and-Function-Notebooks) by [James G. Hill](https://github.com/James-G-Hill) 
   -  [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 -  [Python for Probability, Statistics, and Machine Learning](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E)
-- [ <sub><sub><img alt="by Peter Norvig" height="20" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=data-science&url=https%3A//github.com/ageron/handson-ml/blob/master/02_end_to_end_machine_learning_project.ipynb)   [Mining the Social Web](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition/tree/master/notebooks) by [Mikhail Klassen](https://github.com/mikhailklassen)
-
-https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition/blob/master/notebooks/Chapter%200%20-%20Preface.ipynb
+- [ <sub><sub><img alt="by Peter Norvig" height="20" src="https://deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=data-science&url=https%3A//github.com/ageron/handson-ml/blob/master/02_end_to_end_machine_learning_project.ipynb)   [Mining the Social Web](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition/tree/master/notebooks) by [Mikhail Klassen](https://github.com/mikhailklassen)
 
 ## Other Resources
 - [Deepnote Slack Community](https://join.slack.com/t/deepnotecommunity/shared_invite/enQtOTI4OTA1MzYwNTMzLTQ4ZGY4Y2VkOTZkYTNjY2U3NTU5ZjJjMDRiMmNmOTgzMzhmYjZlMTczZmY1MDhhM2RmMDk3OWYxM2MyZmFlMDc)
@@ -75,10 +73,10 @@ Other amazingly awesome lists can be found by searching: [#awesome](https://gith
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwMzE2ODUyLDczNDYyNzM1OCwtOTA0OD
-QzOTYsLTk3MDU2Nzc0NywtMTkxMjIwMDk1MiwtMTk2MzA5Mzkz
-MiwxMzQ5MzQ4NjE4LC0xNzYwODMyOTE0LDkyNDk0NTA5MSwtMT
-k0Mjg3NDQzLC0xNjcwNjUxMDY0LDEyNTQzMjE5MywtMTk3MDMw
-MTgwLDE5MDA4OTc2OTUsMjEyOTA1NzA2NSwzMDE1NDgwNTZdfQ
-==
+eyJoaXN0b3J5IjpbLTUyMjQxNzUxMyw3MzQ2MjczNTgsLTkwND
+g0Mzk2LC05NzA1Njc3NDcsLTE5MTIyMDA5NTIsLTE5NjMwOTM5
+MzIsMTM0OTM0ODYxOCwtMTc2MDgzMjkxNCw5MjQ5NDUwOTEsLT
+E5NDI4NzQ0MywtMTY3MDY1MTA2NCwxMjU0MzIxOTMsLTE5NzAz
+MDE4MCwxOTAwODk3Njk1LDIxMjkwNTcwNjUsMzAxNTQ4MDU2XX
+0=
 -->
