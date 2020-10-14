@@ -1,8 +1,5 @@
 # Awesome Deepnote [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  [<img height="22" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg">](https://github.com/SuNaden/deepnote-launch-example) 
 
-
-[<img height="31" src="https://beta.deepnote.com/buttons/launch-in-deepnote-white.svg">](https://deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Fmatthew-e-thomas%2Fdeeptnote-credit-card-fraud%2Fblob%2Fmaster%2Fcredit_card_fraud_ml.ipynb)
-
 A curated [awesome](https://github.com/topics/awesome) list of deepnote notebooks, extensions and resources. [Deepnote](http://deepnote.com) is a new kind of data science notebook. Jupyter-compatible with real-time collaboration and easy deployment.
 
 <div align="right" style="text-align:right"><i><a href="https://github.com/topics/deepnote">#deepnote</a>, <a href="https://github.com/topics/jupyter-kernels">#jupyter-kernels</a>, <a href="https://github.com/topics/machine-learning">#machine-learning</a><br>
@@ -19,7 +16,8 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 ##### _anaconda, miniconda_
 -  [Using Conda in Deepnote in 3 simple steps](https://beta.deepnote.com/project/1e061457-9c0a-412a-a8fa-c08358928ba2) by _@Daniel_
 ##### _scikit-learn_
--  [Detect Credit Card Fraud](https://github.com/matthew-e-thomas/deeptnote-credit-card-fraud) using [scikit-learn]() by [Matt Thomas](https://github.com/matthew-e-thomas)
+-  [Detect Credit Card Fraud](https://github.com/matthew-e-thomas/deeptnote-credit-card-fraud) using [scikit-learn]() by [Matt Thomas](https://github.com/matthew-e-thomas)  [<img height="31" src="https://beta.deepnote.com/buttons/launch-in-deepnote-white.svg">](https://deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Fmatthew-e-thomas%2Fdeeptnote-credit-card-fraud%2Fblob%2Fmaster%2Fcredit_card_fraud_ml.ipynb)
+
 -  [Customer Churn Prediction](https://github.com/alfarias/customer-churn-prediction/blob/master/notebooks/customer-churn-prediction.ipynb)
 ##### _tensorflow, keras_
 - [Deep Learning with TensorFlow 2 and Keras](https://github.com/ageron/tf2_course)
@@ -74,7 +72,7 @@ Other amazingly awesome lists can be found by searching: [#awesome](https://gith
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MjcxNzA4OSwtMTk0Mjg3NDQzLC0xNj
+eyJoaXN0b3J5IjpbLTk1NDA0OTYwNSwtMTk0Mjg3NDQzLC0xNj
 cwNjUxMDY0LDEyNTQzMjE5MywtMTk3MDMwMTgwLDE5MDA4OTc2
 OTUsMjEyOTA1NzA2NSwzMDE1NDgwNTZdfQ==
 -->
