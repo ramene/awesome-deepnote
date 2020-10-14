@@ -31,8 +31,10 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 - [Datascience IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) by [Donne Martin](https://github.com/donnemartin)
 -  [Maths: Form and Function with Python](https://github.com/James-G-Hill/Mathematics-Form-and-Function-Notebooks) by [James G. Hill](https://github.com/James-G-Hill) 
   - [ <sub><sub><img alt="by Peter Norvig" height="20" src="https://deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https%3A%2F%2Fgithub.com%2FCamDavidsonPilon%2FProbabilistic-Programming-and-Bayesian-Methods-for-Hackers%2Fblob%2Fmaster%2FPrologue%2FPrologue.ipynb) [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
--  [Python for Probability, Statistics, and Machine Learning](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E)
+-  [Python for Probability, Statistics, and Machine Learning 2E](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E)
 - [ <sub><sub><img alt="by Peter Norvig" height="20" src="https://deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https%3A%2F%2Fgithub.com%2Fmikhailklassen%2FMining-the-Social-Web-3rd-Edition%2Fblob%2Fmaster%2Fnotebooks%2FChapter%25200%2520-%2520Preface.ipynb)  [Mining the Social Web](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition/tree/master/notebooks) by [Mikhail Klassen](https://github.com/mikhailklassen)
+
+https%3A%2F%2Fgithub.com%2Funpingco%2FPython-for-Probability-Statistics-and-Machine-Learning-2E%2Fblob%2Fmaster%2Fchapter%2Fmachine_learning%2Fintro.ipynb
 
 ## Other Resources
 - [Deepnote Slack Community](https://join.slack.com/t/deepnotecommunity/shared_invite/enQtOTI4OTA1MzYwNTMzLTQ4ZGY4Y2VkOTZkYTNjY2U3NTU5ZjJjMDRiMmNmOTgzMzhmYjZlMTczZmY1MDhhM2RmMDk3OWYxM2MyZmFlMDc)
@@ -73,10 +75,10 @@ Other amazingly awesome lists can be found by searching: [#awesome](https://gith
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTg3MjY1NiwyMTExOTMzNzE5LDczND
-YyNzM1OCwtOTA0ODQzOTYsLTk3MDU2Nzc0NywtMTkxMjIwMDk1
-MiwtMTk2MzA5MzkzMiwxMzQ5MzQ4NjE4LC0xNzYwODMyOTE0LD
-kyNDk0NTA5MSwtMTk0Mjg3NDQzLC0xNjcwNjUxMDY0LDEyNTQz
-MjE5MywtMTk3MDMwMTgwLDE5MDA4OTc2OTUsMjEyOTA1NzA2NS
-wzMDE1NDgwNTZdfQ==
+eyJoaXN0b3J5IjpbLTIwNjA0MTk1MCwxNTExODcyNjU2LDIxMT
+E5MzM3MTksNzM0NjI3MzU4LC05MDQ4NDM5NiwtOTcwNTY3NzQ3
+LC0xOTEyMjAwOTUyLC0xOTYzMDkzOTMyLDEzNDkzNDg2MTgsLT
+E3NjA4MzI5MTQsOTI0OTQ1MDkxLC0xOTQyODc0NDMsLTE2NzA2
+NTEwNjQsMTI1NDMyMTkzLC0xOTcwMzAxODAsMTkwMDg5NzY5NS
+wyMTI5MDU3MDY1LDMwMTU0ODA1Nl19
 -->
