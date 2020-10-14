@@ -29,9 +29,9 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 #### _collections, books, journals_
 - [Datascience IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) by [Donne Martin](https://github.com/donnemartin)
 -  [Maths: Form and Function with Python](https://github.com/James-G-Hill/Mathematics-Form-and-Function-Notebooks) by [James G. Hill](https://github.com/James-G-Hill) 
-  - [ <sub><sub><img alt="by Peter Norvig" height="20" src="https://deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https%3A%2F%2Fgithub.com%2FCamDavidsonPilon%2FProbabilistic-Programming-and-Bayesian-Methods-for-Hackers%2Fblob%2Fmaster%2FPrologue%2FPrologue.ipynb) [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
-- [ <sub><sub><img alt="by Peter Norvig" height="20" src="https://deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https%3A%2F%2Fgithub.com%2Funpingco%2FPython-for-Probability-Statistics-and-Machine-Learning-2E%2Fblob%2Fmaster%2Fchapter%2Fmachine_learning%2Fintro.ipynb) [Python for Probability, Statistics, and Machine Learning 2E](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E)
-- [ <sub><sub><img alt="by Peter Norvig" height="20" src="https://deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https%3A%2F%2Fgithub.com%2Fmikhailklassen%2FMining-the-Social-Web-3rd-Edition%2Fblob%2Fmaster%2Fnotebooks%2FChapter%25200%2520-%2520Preface.ipynb) [Mining the Social Web](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition/tree/master/notebooks) by [Mikhail Klassen](https://github.com/mikhailklassen)
+  - [ <sub><sub><img alt="by Peter Norvig" height="20" src="https://deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=data-science&url=https%3A%2F%2Fgithub.com%2FCamDavidsonPilon%2FProbabilistic-Programming-and-Bayesian-Methods-for-Hackers%2Fblob%2Fmaster%2FPrologue%2FPrologue.ipynb) [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+- [ <sub><sub><img alt="by Peter Norvig" height="20" src="https://deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=data-science&url=https%3A%2F%2Fgithub.com%2Funpingco%2FPython-for-Probability-Statistics-and-Machine-Learning-2E%2Fblob%2Fmaster%2Fchapter%2Fmachine_learning%2Fintro.ipynb) [Python for Probability, Statistics, and Machine Learning 2E](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E)
+- [ <sub><sub><img alt="by Peter Norvig" height="20" src="https://deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=data-science&url=https%3A%2F%2Fgithub.com%2Fmikhailklassen%2FMining-the-Social-Web-3rd-Edition%2Fblob%2Fmaster%2Fnotebooks%2FChapter%25200%2520-%2520Preface.ipynb) [Mining the Social Web](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition/tree/master/notebooks) by [Mikhail Klassen](https://github.com/mikhailklassen)
 
 ## Custom Packages
 -  [ColabCode](https://github.com/abhishekkrthakur/colabcode) by [Abhishek Thakur](https://github.com/abhishekkrthakur) –– [Video](https://youtu.be/7kTbM3D02jU)
@@ -75,10 +75,10 @@ Other amazingly awesome lists can be found by searching: [#awesome](https://gith
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDk2NTk1NywxNTExODcyNjU2LDIxMT
-E5MzM3MTksNzM0NjI3MzU4LC05MDQ4NDM5NiwtOTcwNTY3NzQ3
-LC0xOTEyMjAwOTUyLC0xOTYzMDkzOTMyLDEzNDkzNDg2MTgsLT
-E3NjA4MzI5MTQsOTI0OTQ1MDkxLC0xOTQyODc0NDMsLTE2NzA2
-NTEwNjQsMTI1NDMyMTkzLC0xOTcwMzAxODAsMTkwMDg5NzY5NS
-wyMTI5MDU3MDY1LDMwMTU0ODA1Nl19
+eyJoaXN0b3J5IjpbMTQ5MTM2NzMxMCwtNDYwOTY1OTU3LDE1MT
+E4NzI2NTYsMjExMTkzMzcxOSw3MzQ2MjczNTgsLTkwNDg0Mzk2
+LC05NzA1Njc3NDcsLTE5MTIyMDA5NTIsLTE5NjMwOTM5MzIsMT
+M0OTM0ODYxOCwtMTc2MDgzMjkxNCw5MjQ5NDUwOTEsLTE5NDI4
+NzQ0MywtMTY3MDY1MTA2NCwxMjU0MzIxOTMsLTE5NzAzMDE4MC
+wxOTAwODk3Njk1LDIxMjkwNTcwNjUsMzAxNTQ4MDU2XX0=
 -->
