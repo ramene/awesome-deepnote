@@ -1,6 +1,6 @@
 # Awesome Deepnote [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  [<img height="22" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg">](https://github.com/SuNaden/deepnote-launch-example) 
 
-A curated list of [awesome](https://github.com/topics/awesome) deepnote notebooks, extensions and resources. [Deepnote](http://deepnote.com) is a new kind of data science notebook. Jupyter-compatible with real-time collaboration and easy deployment.
+A curated [awesome](https://github.com/topics/awesome) list of deepnote notebooks, extensions and resources. [Deepnote](http://deepnote.com) is a new kind of data science notebook. Jupyter-compatible with real-time collaboration and easy deployment.
 
 <div align="right" style="text-align:right"><i><a href="https://github.com/topics/deepnote">#deepnote</a>, <a href="https://github.com/topics/jupyter-kernels">#jupyter-kernels</a>, <a href="https://github.com/topics/machine-learning">#machine-learning</a><br>
 search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepnote</a></i></div>
@@ -68,6 +68,6 @@ Other amazingly awesome lists can be found by searching: [#awesome](https://gith
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM4NjY2NDE3LDIxMjkwNTcwNjUsMzAxNT
-Q4MDU2XX0=
+eyJoaXN0b3J5IjpbMTkwMDg5NzY5NSwyMTI5MDU3MDY1LDMwMT
+U0ODA1Nl19
 -->
