@@ -17,7 +17,7 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 -  [Using Conda in Deepnote in 3 simple steps](https://beta.deepnote.com/project/1e061457-9c0a-412a-a8fa-c08358928ba2)
 ##### _scikit-learn_
 [Detect Credit Card Fraud](https://github.com/matthew-e-thomas/deeptnote-credit-card-fraud)  [ <sub><sub><sub><img height="24" src="https://beta.deepnote.com/buttons/launch-in-deepnote-white.svg"></sub></sub></sub>](https://deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Fmatthew-e-thomas%2Fdeeptnote-credit-card-fraud%2Fblob%2Fmaster%2Fcredit_card_fraud_ml.ipynb) 
--  [Customer Churn Prediction](https://github.com/alfarias/customer-churn-prediction/blob/master/notebooks/customer-churn-prediction.ipynb)
+[Customer Churn Prediction](https://github.com/alfarias/customer-churn-prediction/blob/master/notebooks/customer-churn-prediction.ipynb) [ <sub><sub><sub><img height="24" src="https://beta.deepnote.com/buttons/launch-in-deepnote-white.svg"></sub></sub></sub>](https://deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Falfarias%2Fcustomer-churn-prediction%2Fblob%2Fmaster%2Fnotebooks%2Fcustomer-churn-prediction.ipynb%29) 
 ##### _tensorflow, keras_
 - [Deep Learning with TensorFlow 2 and Keras](https://github.com/ageron/tf2_course)
 ##### _tensorboard_
@@ -71,7 +71,7 @@ Other amazingly awesome lists can be found by searching: [#awesome](https://gith
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMwNDc2OTAxLC0xNzYwODMyOTE0LDkyND
+eyJoaXN0b3J5IjpbOTEwNDkwNzk3LC0xNzYwODMyOTE0LDkyND
 k0NTA5MSwtMTk0Mjg3NDQzLC0xNjcwNjUxMDY0LDEyNTQzMjE5
 MywtMTk3MDMwMTgwLDE5MDA4OTc2OTUsMjEyOTA1NzA2NSwzMD
 E1NDgwNTZdfQ==
