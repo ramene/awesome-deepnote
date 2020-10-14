@@ -33,7 +33,6 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
   -  [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 -  [Python for Probability, Statistics, and Machine Learning](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E)
 -  [Mining the Social Web](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition/tree/master/notebooks) by [Mikhail Klassen](https://github.com/mikhailklassen)
--  [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures)
 
 ## Other Resources
 - [Deepnote Slack Community](https://join.slack.com/t/deepnotecommunity/shared_invite/enQtOTI4OTA1MzYwNTMzLTQ4ZGY4Y2VkOTZkYTNjY2U3NTU5ZjJjMDRiMmNmOTgzMzhmYjZlMTczZmY1MDhhM2RmMDk3OWYxM2MyZmFlMDc)
@@ -73,9 +72,9 @@ Other amazingly awesome lists can be found by searching: [#awesome](https://gith
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDU2Nzc0NywtMTkxMjIwMDk1MiwtMT
-k2MzA5MzkzMiwxMzQ5MzQ4NjE4LC0xNzYwODMyOTE0LDkyNDk0
-NTA5MSwtMTk0Mjg3NDQzLC0xNjcwNjUxMDY0LDEyNTQzMjE5My
-wtMTk3MDMwMTgwLDE5MDA4OTc2OTUsMjEyOTA1NzA2NSwzMDE1
-NDgwNTZdfQ==
+eyJoaXN0b3J5IjpbLTkwNDg0Mzk2LC05NzA1Njc3NDcsLTE5MT
+IyMDA5NTIsLTE5NjMwOTM5MzIsMTM0OTM0ODYxOCwtMTc2MDgz
+MjkxNCw5MjQ5NDUwOTEsLTE5NDI4NzQ0MywtMTY3MDY1MTA2NC
+wxMjU0MzIxOTMsLTE5NzAzMDE4MCwxOTAwODk3Njk1LDIxMjkw
+NTcwNjUsMzAxNTQ4MDU2XX0=
 -->
