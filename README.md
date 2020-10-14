@@ -40,13 +40,13 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 ## Other Awesome Lists
  - [lists](https://github.com/jnv/lists)
  - [pytudes](https://github.com/norvig/pytudes)
+ - [awesome-r](https://github.com/qinwf/awesome-R)
  - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz)
  - [awesome-python](https://github.com/vinta/awesome-python)
  - [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)
  - [awesome-datascience](https://github.com/academic/awesome-datascience)
  - [awesome-datascience-ideas](https://github.com/JosPolfliet/awesome-datascience-ideas)
  - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
- - [awesome-r](https://github.com/qinwf/awesome-R)
  - [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) 
  - [awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code)
  - [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
@@ -69,6 +69,6 @@ Other amazingly awesome lists can be found by searching: [#awesome](https://gith
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1ODE4NjMzLC0xOTcwMzAxODAsMTkwMD
+eyJoaXN0b3J5IjpbMTI1NDMyMTkzLC0xOTcwMzAxODAsMTkwMD
 g5NzY5NSwyMTI5MDU3MDY1LDMwMTU0ODA1Nl19
 -->
