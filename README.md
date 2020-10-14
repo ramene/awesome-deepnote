@@ -16,11 +16,10 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 ##### _anaconda, miniconda_
 -  [Using Conda in Deepnote in 3 simple steps](https://beta.deepnote.com/project/1e061457-9c0a-412a-a8fa-c08358928ba2)
 
-##### _scikit-learn_
+##### _scikit-learn, tensorflow, keras_
 - [ <sub><sub><img height="20" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Fmatthew-e-thomas%2Fdeeptnote-credit-card-fraud%2Fblob%2Fmaster%2Fcredit_card_fraud_ml.ipynb)  [Detect Credit Card Fraud](https://github.com/matthew-e-thomas/deeptnote-credit-card-fraud)  
 - [ <sub><sub><img height="20" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Falfarias%2Fcustomer-churn-prediction%2Fblob%2Fmaster%2Fnotebooks%2Fcustomer-churn-prediction.ipynb%29)  [Customer Churn Prediction](https://github.com/alfarias/customer-churn-prediction/blob/master/notebooks/customer-churn-prediction.ipynb) 
-
-##### _tensorflow, keras_
+- [ <sub><sub><img height="20" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template)  [Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781491962282/) by Peter Novig
 - [Deep Learning with TensorFlow 2 and Keras](https://github.com/ageron/tf2_course)
 
 ##### _tensorboard_
@@ -74,8 +73,8 @@ Other amazingly awesome lists can be found by searching: [#awesome](https://gith
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjMwOTM5MzIsMTM0OTM0ODYxOCwtMT
-c2MDgzMjkxNCw5MjQ5NDUwOTEsLTE5NDI4NzQ0MywtMTY3MDY1
-MTA2NCwxMjU0MzIxOTMsLTE5NzAzMDE4MCwxOTAwODk3Njk1LD
-IxMjkwNTcwNjUsMzAxNTQ4MDU2XX0=
+eyJoaXN0b3J5IjpbNTg4NzU4MDYxLC0xOTYzMDkzOTMyLDEzND
+kzNDg2MTgsLTE3NjA4MzI5MTQsOTI0OTQ1MDkxLC0xOTQyODc0
+NDMsLTE2NzA2NTEwNjQsMTI1NDMyMTkzLC0xOTcwMzAxODAsMT
+kwMDg5NzY5NSwyMTI5MDU3MDY1LDMwMTU0ODA1Nl19
 -->
