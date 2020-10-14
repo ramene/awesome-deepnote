@@ -19,8 +19,8 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 ##### _scikit-learn, tensorflow, keras_
 - [ <sub><sub><img height="20" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Fmatthew-e-thomas%2Fdeeptnote-credit-card-fraud%2Fblob%2Fmaster%2Fcredit_card_fraud_ml.ipynb)  [Detect Credit Card Fraud](https://github.com/matthew-e-thomas/deeptnote-credit-card-fraud)  
 - [ <sub><sub><img height="20" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Falfarias%2Fcustomer-churn-prediction%2Fblob%2Fmaster%2Fnotebooks%2Fcustomer-churn-prediction.ipynb%29)  [Customer Churn Prediction](https://github.com/alfarias/customer-churn-prediction/blob/master/notebooks/customer-churn-prediction.ipynb) 
-- [ <sub><sub><img height="20" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template)  [Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781491962282/) by Peter Novig
-- [Deep Learning with TensorFlow 2 and Keras](https://github.com/ageron/tf2_course)
+- [ <sub><sub><img height="20" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=data-science&url=https%3A//github.com/ageron/handson-ml/blob/master/02_end_to_end_machine_learning_project.ipynb)  [Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781491962282/)
+- [ <sub><sub><img alt=""height="20" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=data-science&url=https%3A//github.com/ageron/handson-ml/blob/master/02_end_to_end_machine_learning_project.ipynb)   [Deep Learning with TensorFlow 2 and Keras](https://github.com/ageron/tf2_course)
 
 ##### _tensorboard_
 -  [Tensorboard with ngrok](https://deepnote.com/project/d9ef0f3d-e2e3-40ef-8f40-2dc37fb22b88#%2Ftensorboard.ipynb) 
@@ -73,8 +73,8 @@ Other amazingly awesome lists can be found by searching: [#awesome](https://gith
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg4NzU4MDYxLC0xOTYzMDkzOTMyLDEzND
-kzNDg2MTgsLTE3NjA4MzI5MTQsOTI0OTQ1MDkxLC0xOTQyODc0
-NDMsLTE2NzA2NTEwNjQsMTI1NDMyMTkzLC0xOTcwMzAxODAsMT
-kwMDg5NzY5NSwyMTI5MDU3MDY1LDMwMTU0ODA1Nl19
+eyJoaXN0b3J5IjpbLTE2NzkwNzY3ODAsLTE5NjMwOTM5MzIsMT
+M0OTM0ODYxOCwtMTc2MDgzMjkxNCw5MjQ5NDUwOTEsLTE5NDI4
+NzQ0MywtMTY3MDY1MTA2NCwxMjU0MzIxOTMsLTE5NzAzMDE4MC
+wxOTAwODk3Njk1LDIxMjkwNTcwNjUsMzAxNTQ4MDU2XX0=
 -->
