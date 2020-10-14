@@ -19,7 +19,7 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 ##### _scikit-learn, tensorflow, keras_
 - [ <sub><sub><img height="20" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Fmatthew-e-thomas%2Fdeeptnote-credit-card-fraud%2Fblob%2Fmaster%2Fcredit_card_fraud_ml.ipynb)  [Detect Credit Card Fraud](https://github.com/matthew-e-thomas/deeptnote-credit-card-fraud)  
 - [ <sub><sub><img height="20" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Falfarias%2Fcustomer-churn-prediction%2Fblob%2Fmaster%2Fnotebooks%2Fcustomer-churn-prediction.ipynb%29)  [Customer Churn Prediction](https://github.com/alfarias/customer-churn-prediction/blob/master/notebooks/customer-churn-prediction.ipynb) 
-- [ <sub><sub><img height="20" alt="sdfsdf" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=data-science&url=https%3A//github.com/ageron/handson-ml/blob/master/02_end_to_end_machine_learning_project.ipynb)  [Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781491962282/)
+- [ <sub><sub><img height="20" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg" alt="Peter Norvig"></sub></sub>](https://deepnote.com/launch?template=data-science&url=https%3A//github.com/ageron/handson-ml/blob/master/02_end_to_end_machine_learning_project.ipynb)  [Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781491962282/)
 - [ <sub><sub><img alt="by Peter Norvig" height="20" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=data-science&url=https%3A//github.com/ageron/handson-ml/blob/master/02_end_to_end_machine_learning_project.ipynb)   [Deep Learning with TensorFlow 2 and Keras](https://github.com/ageron/tf2_course)
 
 ##### _tensorboard_
@@ -73,7 +73,7 @@ Other amazingly awesome lists can be found by searching: [#awesome](https://gith
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTg3MTg5MCwtMTkxMjIwMDk1MiwtMT
+eyJoaXN0b3J5IjpbLTk3MDU2Nzc0NywtMTkxMjIwMDk1MiwtMT
 k2MzA5MzkzMiwxMzQ5MzQ4NjE4LC0xNzYwODMyOTE0LDkyNDk0
 NTA5MSwtMTk0Mjg3NDQzLC0xNjcwNjUxMDY0LDEyNTQzMjE5My
 wtMTk3MDMwMTgwLDE5MDA4OTc2OTUsMjEyOTA1NzA2NSwzMDE1
