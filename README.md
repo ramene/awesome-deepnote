@@ -1,6 +1,7 @@
 # Awesome Deepnote [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  [<img height="22" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg">](https://github.com/SuNaden/deepnote-launch-example) 
 
-[sd](https%3A%2F%2Fgithub.com%2Fmatthew-e-thomas%2Fdeeptnote-credit-card-fraud%2Fblob%2Fmaster%2Fcredit_card_fraud_ml.ipynb)
+
+[<img height="31" src="https://beta.deepnote.com/buttons/launch-in-deepnote-white.svg">](https://deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Fmatthew-e-thomas%2Fdeeptnote-credit-card-fraud%2Fblob%2Fmaster%2Fcredit_card_fraud_ml.ipynb)
 
 A curated [awesome](https://github.com/topics/awesome) list of deepnote notebooks, extensions and resources. [Deepnote](http://deepnote.com) is a new kind of data science notebook. Jupyter-compatible with real-time collaboration and easy deployment.
 
@@ -73,7 +74,7 @@ Other amazingly awesome lists can be found by searching: [#awesome](https://gith
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDIwOTc3LC0xOTQyODc0NDMsLTE2Nz
-A2NTEwNjQsMTI1NDMyMTkzLC0xOTcwMzAxODAsMTkwMDg5NzY5
-NSwyMTI5MDU3MDY1LDMwMTU0ODA1Nl19
+eyJoaXN0b3J5IjpbLTQ0MjcxNzA4OSwtMTk0Mjg3NDQzLC0xNj
+cwNjUxMDY0LDEyNTQzMjE5MywtMTk3MDMwMTgwLDE5MDA4OTc2
+OTUsMjEyOTA1NzA2NSwzMDE1NDgwNTZdfQ==
 -->
