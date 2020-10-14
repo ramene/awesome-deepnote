@@ -52,6 +52,7 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
  - [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
  - [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
  - [awesome-fraud-detection-papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
+ - [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 - [Glossary of common statistics and ML terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/) 
 
 Other amazingly awesome lists can be found by searching: [#awesome](https://github.com/topics/awesome), [#awesome-lists](https://github.com/topics/awesome-lists)
@@ -69,6 +70,7 @@ Other amazingly awesome lists can be found by searching: [#awesome](https://gith
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDMyMTkzLC0xOTcwMzAxODAsMTkwMD
-g5NzY5NSwyMTI5MDU3MDY1LDMwMTU0ODA1Nl19
+eyJoaXN0b3J5IjpbNjExNTk1NjQ1LDEyNTQzMjE5MywtMTk3MD
+MwMTgwLDE5MDA4OTc2OTUsMjEyOTA1NzA2NSwzMDE1NDgwNTZd
+fQ==
 -->
