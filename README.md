@@ -17,10 +17,10 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 -  [Using Conda in Deepnote in 3 simple steps](https://beta.deepnote.com/project/1e061457-9c0a-412a-a8fa-c08358928ba2)
 
 ##### _scikit-learn, tensorflow, keras_
-- [ <sub><sub><img height="20" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Fmatthew-e-thomas%2Fdeeptnote-credit-card-fraud%2Fblob%2Fmaster%2Fcredit_card_fraud_ml.ipynb)  [Detect Credit Card Fraud](https://github.com/matthew-e-thomas/deeptnote-credit-card-fraud)  
-- [ <sub><sub><img height="20" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Falfarias%2Fcustomer-churn-prediction%2Fblob%2Fmaster%2Fnotebooks%2Fcustomer-churn-prediction.ipynb%29)  [Customer Churn Prediction](https://github.com/alfarias/customer-churn-prediction/blob/master/notebooks/customer-churn-prediction.ipynb) 
-- [ <sub><sub><img height="20" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg" alt="Peter Norvig"></sub></sub>](https://deepnote.com/launch?template=data-science&url=https%3A//github.com/ageron/handson-ml/blob/master/02_end_to_end_machine_learning_project.ipynb)  [Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781491962282/)
-- [ <sub><sub><img alt="by Peter Norvig" height="20" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=data-science&url=https%3A//github.com/ageron/handson-ml/blob/master/02_end_to_end_machine_learning_project.ipynb)   [Deep Learning with TensorFlow 2 and Keras](https://github.com/ageron/tf2_course)
+- [ <sub><sub><img height="20" src="https://deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Fmatthew-e-thomas%2Fdeeptnote-credit-card-fraud%2Fblob%2Fmaster%2Fcredit_card_fraud_ml.ipynb)  [Detect Credit Card Fraud](https://github.com/matthew-e-thomas/deeptnote-credit-card-fraud)  
+- [ <sub><sub><img height="20" src="https://deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=deepnote&url=https%3A%2F%2Fgithub.com%2Falfarias%2Fcustomer-churn-prediction%2Fblob%2Fmaster%2Fnotebooks%2Fcustomer-churn-prediction.ipynb%29)  [Customer Churn Prediction](https://github.com/alfarias/customer-churn-prediction/blob/master/notebooks/customer-churn-prediction.ipynb) 
+- [ <sub><sub><img height="20" src="https://deepnote.com/buttons/launch-in-deepnote.svg" alt="Peter Norvig"></sub></sub>](https://deepnote.com/launch?template=data-science&url=https%3A//github.com/ageron/handson-ml/blob/master/02_end_to_end_machine_learning_project.ipynb)  [Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781491962282/)
+- [ <sub><sub><img alt="by Peter Norvig" height="20" src="https://deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=data-science&url=https%3A//github.com/ageron/handson-ml/blob/master/02_end_to_end_machine_learning_project.ipynb)   [Deep Learning with TensorFlow 2 and Keras](https://github.com/ageron/tf2_course)
 
 ##### _tensorboard_
 -  [Tensorboard with ngrok](https://deepnote.com/project/d9ef0f3d-e2e3-40ef-8f40-2dc37fb22b88#%2Ftensorboard.ipynb) 
@@ -28,11 +28,11 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 
 ## Collections of notebooks
 
-- [Datascience IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+- [Datascience IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) by [Donne Martin](https://github.com/donnemartin)
 -  [Maths: Form and Function with Python](https://github.com/James-G-Hill/Mathematics-Form-and-Function-Notebooks) by [James G. Hill](https://github.com/James-G-Hill) 
   -  [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 -  [Python for Probability, Statistics, and Machine Learning](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E)
-- [ <sub><sub><img alt="by Peter Norvig" height="20" src="https://deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=data-science&url=https%3A//github.com/ageron/handson-ml/blob/master/02_end_to_end_machine_learning_project.ipynb)   [Mining the Social Web](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition/tree/master/notebooks) by [Mikhail Klassen](https://github.com/mikhailklassen)
+- [ <sub><sub><img alt="by Peter Norvig" height="20" src="https://deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https%3A%2F%2Fgithub.com%2Fmikhailklassen%2FMining-the-Social-Web-3rd-Edition%2Fblob%2Fmaster%2Fnotebooks%2FChapter%25200%2520-%2520Preface.ipynb)   [Mining the Social Web](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition/tree/master/notebooks) by [Mikhail Klassen](https://github.com/mikhailklassen)
 
 ## Other Resources
 - [Deepnote Slack Community](https://join.slack.com/t/deepnotecommunity/shared_invite/enQtOTI4OTA1MzYwNTMzLTQ4ZGY4Y2VkOTZkYTNjY2U3NTU5ZjJjMDRiMmNmOTgzMzhmYjZlMTczZmY1MDhhM2RmMDk3OWYxM2MyZmFlMDc)
@@ -73,7 +73,7 @@ Other amazingly awesome lists can be found by searching: [#awesome](https://gith
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjQxNzUxMyw3MzQ2MjczNTgsLTkwND
+eyJoaXN0b3J5IjpbMjExMTkzMzcxOSw3MzQ2MjczNTgsLTkwND
 g0Mzk2LC05NzA1Njc3NDcsLTE5MTIyMDA5NTIsLTE5NjMwOTM5
 MzIsMTM0OTM0ODYxOCwtMTc2MDgzMjkxNCw5MjQ5NDUwOTEsLT
 E5NDI4NzQ0MywtMTY3MDY1MTA2NCwxMjU0MzIxOTMsLTE5NzAz
