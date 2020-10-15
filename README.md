@@ -27,7 +27,7 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 -  [Scraping the EPL Stats Website](https://deepnote.com/project/19f51d7b-ae79-4c51-906c-dee0138da144) –– [Docs](https://github.com/sportsdatasolutions/python_project_template/blob/master/getting_started_deepnote.md)
 
 #### _collections, books, journals_
-- [](https://www.kaggle.com/learn/intro-to-deep-learning) 
+- [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning) by [Ryan Holbrook](https://www.kaggle.com/ryanholbrook) @ **Kaggle**
 - [Datascience IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) by [Donne Martin](https://github.com/donnemartin)
 -  [Maths: Form and Function with Python](https://github.com/James-G-Hill/Mathematics-Form-and-Function-Notebooks) by [James G. Hill](https://github.com/James-G-Hill) 
   - [ <sub><sub><img alt="by Peter Norvig" height="20" src="https://deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=data-science&url=https%3A%2F%2Fgithub.com%2FCamDavidsonPilon%2FProbabilistic-Programming-and-Bayesian-Methods-for-Hackers%2Fblob%2Fmaster%2FPrologue%2FPrologue.ipynb) [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
@@ -76,11 +76,11 @@ Other amazingly awesome lists can be found by searching: [#awesome](https://gith
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMjc1ODMzNSwzMzc2Mzk3OTEsLTY5OD
-I1NjE1NiwtNDYwOTY1OTU3LDE1MTE4NzI2NTYsMjExMTkzMzcx
-OSw3MzQ2MjczNTgsLTkwNDg0Mzk2LC05NzA1Njc3NDcsLTE5MT
-IyMDA5NTIsLTE5NjMwOTM5MzIsMTM0OTM0ODYxOCwtMTc2MDgz
-MjkxNCw5MjQ5NDUwOTEsLTE5NDI4NzQ0MywtMTY3MDY1MTA2NC
-wxMjU0MzIxOTMsLTE5NzAzMDE4MCwxOTAwODk3Njk1LDIxMjkw
-NTcwNjVdfQ==
+eyJoaXN0b3J5IjpbMjcxMjI1NTYyLDMzNzYzOTc5MSwtNjk4Mj
+U2MTU2LC00NjA5NjU5NTcsMTUxMTg3MjY1NiwyMTExOTMzNzE5
+LDczNDYyNzM1OCwtOTA0ODQzOTYsLTk3MDU2Nzc0NywtMTkxMj
+IwMDk1MiwtMTk2MzA5MzkzMiwxMzQ5MzQ4NjE4LC0xNzYwODMy
+OTE0LDkyNDk0NTA5MSwtMTk0Mjg3NDQzLC0xNjcwNjUxMDY0LD
+EyNTQzMjE5MywtMTk3MDMwMTgwLDE5MDA4OTc2OTUsMjEyOTA1
+NzA2NV19
 -->
