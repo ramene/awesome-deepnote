@@ -9,7 +9,7 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 <img  width="160"  src="https://deepnote.com/static/landing/logo.svg"  alt="Jupyter logo">
 </div>
 
-## Published
+## General
 
 #### _matplotlib, plotly_
 -  [Visual data exploration with Virginia's public COVID-19 cases dataset](https://github.com/jammy-bot/va-covid-eda) by [Jamal Dargan](https://github.com/jammy-bot)
@@ -27,6 +27,7 @@ search: <a href="https://github.com/search?type=Repositories&q=deepnote"> deepno
 -  [Scraping the EPL Stats Website](https://deepnote.com/project/19f51d7b-ae79-4c51-906c-dee0138da144) –– [Docs](https://github.com/sportsdatasolutions/python_project_template/blob/master/getting_started_deepnote.md)
 
 #### _collections, books, journals_
+- [](https://www.kaggle.com/learn/intro-to-deep-learning) 
 - [Datascience IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) by [Donne Martin](https://github.com/donnemartin)
 -  [Maths: Form and Function with Python](https://github.com/James-G-Hill/Mathematics-Form-and-Function-Notebooks) by [James G. Hill](https://github.com/James-G-Hill) 
   - [ <sub><sub><img alt="by Peter Norvig" height="20" src="https://deepnote.com/buttons/launch-in-deepnote.svg"></sub></sub>](https://deepnote.com/launch?template=data-science&url=https%3A%2F%2Fgithub.com%2FCamDavidsonPilon%2FProbabilistic-Programming-and-Bayesian-Methods-for-Hackers%2Fblob%2Fmaster%2FPrologue%2FPrologue.ipynb) [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
@@ -75,11 +76,11 @@ Other amazingly awesome lists can be found by searching: [#awesome](https://gith
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3NjM5NzkxLC02OTgyNTYxNTYsLTQ2MD
-k2NTk1NywxNTExODcyNjU2LDIxMTE5MzM3MTksNzM0NjI3MzU4
-LC05MDQ4NDM5NiwtOTcwNTY3NzQ3LC0xOTEyMjAwOTUyLC0xOT
-YzMDkzOTMyLDEzNDkzNDg2MTgsLTE3NjA4MzI5MTQsOTI0OTQ1
-MDkxLC0xOTQyODc0NDMsLTE2NzA2NTEwNjQsMTI1NDMyMTkzLC
-0xOTcwMzAxODAsMTkwMDg5NzY5NSwyMTI5MDU3MDY1LDMwMTU0
-ODA1Nl19
+eyJoaXN0b3J5IjpbMTgyMjc1ODMzNSwzMzc2Mzk3OTEsLTY5OD
+I1NjE1NiwtNDYwOTY1OTU3LDE1MTE4NzI2NTYsMjExMTkzMzcx
+OSw3MzQ2MjczNTgsLTkwNDg0Mzk2LC05NzA1Njc3NDcsLTE5MT
+IyMDA5NTIsLTE5NjMwOTM5MzIsMTM0OTM0ODYxOCwtMTc2MDgz
+MjkxNCw5MjQ5NDUwOTEsLTE5NDI4NzQ0MywtMTY3MDY1MTA2NC
+wxMjU0MzIxOTMsLTE5NzAzMDE4MCwxOTAwODk3Njk1LDIxMjkw
+NTcwNjVdfQ==
 -->
