@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[2748,[],"ViewportBoundary"]
+3:I[2748,[],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[8157,[],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"awesome-deepnote — curated notebooks, integrations & resources"}],["$","meta","1",{"name":"description","content":"A curated list of extensions, Python packages, machine learning workflows, and collaborative notebooks ready to run in Deepnote."}],["$","link","2",{"rel":"icon","href":"/awesome-deepnote/favicon.ico?ca807c4edc1e61da","type":"image/x-icon","sizes":"16x16"}],["$","$L5","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Myzk-avijwKrTE0WFa71_"}
